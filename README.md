@@ -1,3 +1,71 @@
+##  SOC Dashboard
+
+A Security Operations Center (SOC) Dashboard built using **React** and **Tailwind CSS**, designed to simulate real-world security monitoring workflows.
+
+---
+
+##  Features
+
+- **Threat Metrics Cards**
+  - Total Alerts
+  - Critical Alerts
+  - Open Incidents
+  - Resolved Incidents
+
+- **Interactive Alerts Table**
+  - Filter alerts by severity and status
+  - Resolve alerts with a single click
+  - Real-time UI updates
+
+- **Severity Analytics**
+  - Bar chart showing alerts by severity
+
+- **Professional Layout**
+  - Sidebar navigation
+  - Clean SOC-style dashboard UI
+
+- **Dark / Light Mode**
+  - Toggle theme instantly
+
+---
+
+##  Tech Stack
+
+- **Frontend:** React, Vite
+- **Styling:** Tailwind CSS
+- **Charts:** Recharts
+- **Version Control:** Git & GitHub
+
+---
+
+##  What This Project Demonstrates
+
+- Component-based UI architecture
+- State management using React hooks
+- Realistic SOC analyst workflows
+- Interactive dashboards & data visualization
+- Clean, scalable frontend design
+
+---
+
+##  Future Improvements
+
+- Backend API integration
+- Authentication & role-based access
+- Real-time alerts using WebSockets
+- Pagination & search for alerts
+
+---
+
+##  Getting Started
+
+Clone the repository:
+
+```bash
+git clone https://github.com/Sakshiblip/soc-dashboard.git
+cd soc-dashboard
+npm install
+npm run dev
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
