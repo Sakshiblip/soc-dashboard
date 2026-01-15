@@ -1,3 +1,5 @@
+##Live Demo: https://soc-dashboard-gray.vercel.app
+
 ##  SOC Dashboard
 
 A Security Operations Center (SOC) Dashboard built using **React** and **Tailwind CSS**, designed to simulate real-world security monitoring workflows.
